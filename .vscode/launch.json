@@ -1,13 +1,13 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "name": "Debug",
-            "internalConsoleOptions": "neverOpen",
-            "program": "${workspaceFolder}/src/app.ts",
-            "request": "launch",
-            "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/nodemon",
-            "type": "node"
-          }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug",
+      "internalConsoleOptions": "neverOpen",
+      "program": "${workspaceFolder}/src/app.ts",
+      "request": "launch",
+      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/nodemon",
+      "type": "node"
+    }
+  ]
 }
